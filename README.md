@@ -10,8 +10,7 @@ This project is a cleaning and analysis of a (hypothetical) free-to-play game's 
 
 ### User Instructions
 * Clone the repository: git clone https://github.com/Vincent-glitch/Pandas-Microtransaction-Analysis.git 
-* Open the notebook folder and select 'Microtransactions.ipynb'
-* Run the cells top down to view the analysis.
+* Open [Microtransactions](notebooks/Microtransactions.ipynb) and run the cells top down to view the analysis.
 ---
 
 The final report includes:
