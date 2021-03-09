@@ -1,4 +1,4 @@
-## Background
+## Pandas-Microtransaction-Analysis
 ![Fantasy](notebooks/.ipynb_checkpoints/Micro-X.gif)
 
 This project is a cleaning and analysis of a (hypothetical) free-to-play game's micro-transaction data. The players are able to purchase optional items to enhance their experience, this purchase data was analyzed with a report breaking down meaningful insights.
