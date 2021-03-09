@@ -1,5 +1,5 @@
 ## Background
-![Fantasy](Images/Fantasy.png)
+![Fantasy](notebooks/.ipynb_checkpoints/Micro-X.gif)
 
 This project is a cleaning and analysis of a (hypothetical) free-to-play game's micro-transaction data. The players are able to purchase optional items to enhance their experience, this purchase data was analyzed with a report breaking down meaningful insights.
 
@@ -7,7 +7,7 @@ This project is a cleaning and analysis of a (hypothetical) free-to-play game's 
 ### Tech Stack
 * Pandas 
 * Python (Jupyter Lab & Notebook)
-
+---
 ### User Instructions
 * Clone the repository: git clone https://github.com/Vincent-glitch/Pandas-Microtransaction-Analysis.git 
 * Open [Microtransactions](notebooks/Microtransactions.ipynb) and run the cells top down to view the analysis.
